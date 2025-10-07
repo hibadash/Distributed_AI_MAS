@@ -1,4 +1,4 @@
-# Multi-Agent Grid Simulation
+# Multi-Agent Grid Simulation - MAS
 
 ## Description
 
