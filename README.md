@@ -22,9 +22,12 @@ This project is ideal for learning **Artificial Intelligence concepts**, such as
 - Step count comparison for efficiency analysis.
 
 ---
-1. **Reflex Agent**: Moves greedily (right → down) without considering obstacles optimally.  
+1. **Reflex Agent**: Moves greedily (right → down) without considering obstacles optimally.
+   ------------------------------------------------------
 ![Step 1](stp.PNG)
-2. **Goal-Based Agent**: Uses the **A\* algorithm** to find the shortest path to the goal while avoiding obstacles.
+   ------------------------------------------------------
+3. **Goal-Based Agent**: Uses the **A\* algorithm** to find the shortest path to the goal while avoiding obstacles.
+4.    ------------------------------------------------------
 ![Step 2](stp2.PNG)
 
 ## Getting Started
