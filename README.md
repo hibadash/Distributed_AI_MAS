@@ -38,7 +38,4 @@ This project is ideal for learning **Artificial Intelligence concepts**, such as
 - Jupyter Notebook or any environment that supports `IPython.display`.
 - Libraries: `numpy`, `matplotlib`
 
-Install dependencies:
-
-```bash
-pip install numpy matplotlib
+MADE WITH LUV <3 HEBA D.
